@@ -35,12 +35,19 @@
 ## Simple Checkout
 ---
 ### Simple Checkout Purpose
+Displays a webpage that allows the user to input values that will then be turned into a grocery receipt summarizing the inputs and calculating the change they get back. Displays the output of the receipt in a Javascript alert message
 
 ### Simple Checkout Output
+![Photo of Webpage](Simple-Checkout/assets/webpage.png)
+![Photo of Alert Message](Simple-Checkout/assets/alertMsg.png)
 
 ### Simple Checkout Authors
+* [Brayden Hermanson](https://github.com/brherm05)
+* [Violet French](https://github.com/Piratgirl9000)
 
 ### Simple Checkout Repository
+[Local Codebase](https://github.com/Pirategirl9000/AdvancedWebDevelopmentGateway/tree/main/Simple-Checkout)
+[Native Repository](https://github.com/Pirategirl9000/Simple-Checkout)
 
 ---
 ## Flashcards
