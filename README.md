@@ -44,6 +44,11 @@
 Displays a webpage that allows the user to input values that will then be turned into a grocery receipt summarizing the inputs and calculating the change they get back. Displays the output of the receipt in a Javascript alert message
 
 ### Simple Checkout Concepts Used
+* Alert messages
+* Grabbing values from DOM
+* Input validation
+* Number parsing
+* JS Arithmetic
 
 ### Simple Checkout Output
 ![Photo of Webpage](Simple-Checkout/assets/webpage.png)
