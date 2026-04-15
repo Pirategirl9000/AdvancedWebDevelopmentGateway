@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    margin: 1em auto;
+    width: 650px;
+    padding: 0.5em 2em;
+    border: 1px solid black;
+    border-radius: 1em;
+}
+
+h1, h3 {
+    color: cornflowerblue;
+}
+
+div {
+    margin-bottom: 1em;
+}
+
+label {
+    display: inline-block;
+    width: 7em;
+}
+
+input[type="text"], input[type="number"], select#genre {
+    width: 13em;
+    margin-right: 0.5em;
+    padding: 3px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 8em;
+    padding: 5px;
+    cursor: pointer;
+}
+
+select#movies {
+    width: 22em;
+    height: 10em;
+    margin: 4.5em 0 1em 0; /* Pushed down slightly to align with form inputs */
+    padding: 1em;
+    overflow-x: scroll;
+    overflow-y: scroll;
+}
+
+p {
+    color: red;
+    text-align: center;
+}
+
+#form {
+    float: left;
+    width: 22em;
+}
+
+#display {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
