@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 720px;
+    margin: 24px auto;
+    padding: 0 12px;
+}
+
+.hint {
+    color: #555;
+    margin-top: 6px;
+}
+
+.row {
+    display: grid;
+    grid-template-columns: 120px 1fr 220px;
+    gap: 10px;
+    align-items: center;
+    margin: 10px 0;
+}
+
+label {
+    text-align: right;
+}
+
+input, select {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 8px;
+}
+
+button {
+    padding: 10px 14px;
+    margin-top: 8px;
+}
+
+.error {
+    color: #b00020;
+    font-size: 0.9em;
+    min-height: 1em;
+    margin-left: 10px;
+    white-space: nowrap;
+}
+
+#output {
+    white-space: pre-wrap;
+    background: #f6f6f6;
+    border: 1px solid #ddd;
+    padding: 12px;
+    border-radius: 6px;
+    margin-top: 14px;
+}

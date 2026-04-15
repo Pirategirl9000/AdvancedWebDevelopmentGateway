@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Flashcard Trainer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<h1>Flashcard Trainer</h1>
+
+<!--
+    novalidate turns off the browser’s automatic form checks
+    so we can validate the form ourselves using JavaScript.
+ -->
+<form id="flashcardForm" novalidate>
+    <div class="row">
+        <label for="command">Command:</label>
+        <select id="command">
+            <option value="add">Add</option>
+            <option value="list">List</option>
+            <option value="quiz">Quiz</option>
+            <option value="clear">Clear</option>
+            <option value="load_default">Load Default Questions</option>
+        </select>
+        <!-- commandError is to display the switch default error -->
+        <span class="error" id="commandError"></span>
+    </div>
+&nbsp;
+    <div class="row">
+        <label for="question">Question:</label>
+        <!--
+        placeholder is the light gray text inside the input
+        The text disappears as soon as the user starts typing
+        -->
+        <input type="text" id="question" placeholder="e.g., What does a duck say?">
+        <span class="error" id="questionError"></span>
+    </div>
+
+    <div class="row">
+        <label for="answer">Answer:</label>
+        <input type="text" id="answer" placeholder="e.g., Quack!">
+        <span class="error" id="answerError"></span>
+    </div>
+
+    <button type="submit">Run</button>
+</form>
+
+<div id="output">Output will appear here.</div>
+
+<script src="flashcards.js"></script>
+</body>
+</html>
