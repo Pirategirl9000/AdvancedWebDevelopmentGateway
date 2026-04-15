@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Grocery Receipt</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <h1>Grocery Receipt</h1>
+    <form id="receipt_form" name="receipt_form" method="post">
+        <div>
+            <label for="customer_name">Customer name:</label>
+            <input type="text" id="customer_name" name="customer_name">
+            <span id="customer_name_error">*</span>
+        </div>
+
+        <div>
+            <label for="grocery_item">Grocery item:</label>
+            <input type="text" id="grocery_item" name="grocery_item">
+            <span id="grocery_item_error">*</span>
+        </div>
+
+        <div>
+            <label for="unit_price">Unit price:</label>
+            <input type="text" id="unit_price" name="unit_price">
+            <span id="unit_price_error">*</span>
+        </div>
+
+        <div>
+            <label for="quantity">Quantity:</label>
+            <input type="text" id="quantity" name="quantity">
+            <span id="quantity_error">*</span>
+        </div>
+
+        <div>
+            <label for="cash">Cash:</label>
+            <input type="text" id="cash" name="cash">
+            <span id="cash_error">*</span>
+        </div>
+        
+        <div class="submit">
+            <input type="submit" id="submit_button" value="Display Receipt">
+        </div>
+    </form>
+    <script src="checkout.js"></script>
+</body>
+</html>
