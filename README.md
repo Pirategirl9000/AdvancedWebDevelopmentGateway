@@ -130,14 +130,27 @@ This program creates a guessing number game for the user. The user will try to g
 ## Smartwatch FAQ
 ---
 ### Smartwatch FAQ Purpose
+This program displays an FAQ page for a smartwatch that uses collapsible panels for questions. When the question is clicked an answer appears and a corresponding image is displayed at the top
 
 ### Smartwatch FAQ Concepts Used
-
+* Adding/Removing classes from DOM elements
+* Checking for and grabbing custom HTML attributes from DOM elements
+* Grabbing next elements based on sibling relationship of DOM elements
+* Checking equality of DOM elements
+* Finding the target of an `Event` object
+* Toggling the class of a DOM element
+* Mutation of an array using `Array.forEach()`
+  
 ### Smartwatch FAQ Output
+![Smartwatch FAQ Output Video](Smartwatch-FAQ/assets/outputVideo.gif)
 
 ### Smartwatch FAQ Authors
+* [Violet French](https://github.com/Pirategirl9000)
+* [Sarah Fenton](https://github.com/sarahfenton204)
 
 ### Smartwatch FAQ Repository
+* [Local Codebase](https://github.com/Pirategirl9000/AdvancedWebDevelopmentGateway/tree/main/Smartwatch-FAQ)
+* [Native Repository](https://github.com/Pirategirl9000/Smartwatch-FAQ)
 
 ---
 ## Retirement Countdown
