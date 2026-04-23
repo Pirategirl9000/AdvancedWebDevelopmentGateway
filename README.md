@@ -202,8 +202,6 @@ This program uses classes and modules to create an OOP based movie tracker progr
 ### Movie Tracker Output
 ![Movie Tracker Ouptut Video](MovieTracker/assets/MovieListOutput.gif)
 
-[Back to Top](#advanced-web-development-gateway)
-
 
 ### Movie Tracker Authors
 * [Violet French](https://github.com/Pirategirl9000)
@@ -211,3 +209,5 @@ This program uses classes and modules to create an OOP based movie tracker progr
 ### Movie Tracker Repository
 * [Local Codebase](https://github.com/Pirategirl9000/AdvancedWebDevelopmentGateway/tree/main/MovieTracker)
 * [Native Repository](https://github.com/Pirategirl9000/MovieTracker)
+
+[Back to Top](#advanced-web-development-gateway)
