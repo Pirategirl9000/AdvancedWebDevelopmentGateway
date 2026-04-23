@@ -107,14 +107,24 @@ This program allows the creation of flashcards for studying and quizzing using a
 ---
 
 ### Hot Cold Game Purpose
+This program creates a guessing number game for the user. The user will try to guess a number with the program giving them hints based on their proximity like the game Hot-Cold. It also tracks the best score for each attempt
 
 ### Hot Cold Game Concepts Used
+* Randomization
+* Event Listeners (Click, Key, ContentLoaded)
+* Ternary Expressions
+* Styling from JS
+* DOM Manipulation
 
 ### Hot Cold Game Output
+![Hot Cold Game Output](HotColdGame/assets/HotColdOutput.gif)
 
 ### Hot Cold Game Authors
+* [Violet French](https://github.com/Pirategirl9000)
 
 ### Hot Cold Game Repository
+* [Local Codebase](https://github.com/Pirategirl9000/AdvancedWebDevelopmentGateway/tree/main/HotColdGame)
+* [Native Repository](https://github.com/Pirategirl9000/HotColdGame)
 
 ---
 ## Smartwatch FAQ
