@@ -64,6 +64,7 @@ Displays a webpage that allows the user to input values that will then be turned
 * [Native Repository](https://github.com/Pirategirl9000/Simple-Checkout)
 
 [Back to Top](#advanced-web-development-gateway)
+
 ---
 ## Flashcards
 ---
@@ -105,6 +106,7 @@ This program allows the creation of flashcards for studying and quizzing using a
 * [Native Repository](https://github.com/Pirategirl9000/Flashcards)
 
 [Back to Top](#advanced-web-development-gateway)
+
 ---
 ## Hot Cold Game
 ---
