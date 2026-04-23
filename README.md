@@ -181,11 +181,21 @@ The purpose of this program is to take in information about the user's financial
 ---
 
 ### Movie Tracker Purpose
+This program uses classes and modules to create an OOP based movie tracker program wherein you can enter a movie, its genre, and a rating for it and it will be save to the browser's local storage and displayed in a side panel. You can also remove or clear movies removing them from both local storage and the side panel.
 
 ### Movie Tracker Concepts Used
+* Classes
+* Objects
+* Modules
+* Symbol.iterator
+* Advanced Array Manipulation
 
 ### Movie Tracker Output
+![Movie Tracker Ouptut Video](MovieTracker/assets/MovieListOutput.gif)
 
 ### Movie Tracker Authors
+* [Violet French](https://github.com/Pirategirl9000)
 
 ### Movie Tracker Repository
+* [Local Codebase](https://github.com/Pirategirl9000/AdvancedWebDevelopmentGateway/tree/main/MovieTracker)
+* [Native Repository](https://github.com/Pirategirl9000/MovieTracker)
