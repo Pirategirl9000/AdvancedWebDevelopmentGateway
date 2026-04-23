@@ -156,14 +156,25 @@ This program displays an FAQ page for a smartwatch that uses collapsible panels 
 ## Retirement Countdown
 ---
 ### Retirement Countdown Purpose
+The purpose of this program is to take in information about the user's financials (savings balance, monthly savings additions, interest rate) and information about the person (name, email) and the date they want to retire. It then uses this data to determine what the projected income of the user will be based on their financials on their projected retirement date.
 
 ### Retirement Countdown Concepts Used
+* Date Manipulation
+* Intervals
+* Regex & Data Validation
+* Error Creation and Handling
+* Regional Money Formatting
+* Local Storage manipulation
 
 ### Retirement Countdown Output
+![Retirement Countdown Output Video](Retirement-Countdown/assets/RetirementProjectorOutput.gif)
 
 ### Retirement Countdown Authors
+* [Violet French](https://github.com/Pirategirl9000)
 
 ### Retirement Countdown Repository
+* [Local Codebase](https://github.com/Pirategirl9000/AdvancedWebDevelopmentGateway/tree/main/Retirement-Countdown)
+* [Native Repository](https://github.com/Pirategirl9000/Retirement-Countdown)
 
 ---
 ## Movie Tracker
