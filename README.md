@@ -53,7 +53,6 @@ Displays a webpage that allows the user to input values that will then be turned
 
 ### Simple Checkout Output
 ![Photo of Webpage](Simple-Checkout/assets/webpage.png)
-![Photo of Alert Message](Simple-Checkout/assets/alertMsg.png)
 
 ### Simple Checkout Authors
 * [Brayden Hermanson](https://github.com/brherm05)
@@ -85,15 +84,6 @@ This program allows the creation of flashcards for studying and quizzing using a
 * [Guard Clauses](https://youtu.be/0ATjSblw9dY?si=Kf4D_hWfI0gXt9UF)
 
 ### Flashcards Output
-#### Adding Questions
-![Added Question](Flashcards/assets/addQuestionValid.png)
-![Failed to Add Question](Flashcards/assets/addQuestionFail.png)
-#### Clearing Cards
-![Clear Cards](Flashcards/assets/clearCards.png)
-#### Listing Cards
-![List Cards](Flashcards/assets/listCard.png)
-#### Quizzing Over Cards
-![Quiz Question Mode](Flashcards/assets/quizQuestion.png)
 ![Quiz Answer Mode](Flashcards/assets/quizAnswer.png)
 
 ### Flashcards Authors
