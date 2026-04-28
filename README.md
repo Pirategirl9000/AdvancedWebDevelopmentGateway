@@ -3,36 +3,42 @@
 ## Table of Contents
 * [Simple Checkout](#simple-checkout)
   * [Purpose](#simple-checkout-purpose)
+  * [Tech Stack](#simple-checkout-tech-stack)
   * [Concepts Used](#simple-checkout-concepts-used)
   * [Output](#simple-checkout-output)
   * [Authors](#simple-checkout-authors)
   * [Repository](#simple-checkout-repository)
 * [Flashcards](#flashcards)
   * [Purpose](#flashcards-purpose)
+  * [Tech Stack](#flashcards-tech-stack)
   * [Concepts Used](#flashcards-concepts-used)
   * [Output](#flashcards-output)
   * [Authors](#flashcards-authors)
   * [Repository](#flashcards-repository) 
 * [Hot Cold Game](#hot-cold-game)
   * [Purpose](#hot-cold-game-purpose)
+  * [Tech Stack](#hot-cold-game-tech-stack)
   * [Concepts Used](#hot-cold-game-concepts-used)
   * [Output](#hot-cold-game-output)
   * [Authors](#hot-cold-game-authors)
   * [Repository](#hot-cold-game-repository)  
 * [Smartwatch FAQ](#smartwatch-faq)
   * [Purpose](#smartwatch-faq-purpose)
+  * [Tech Stack](#smartwatch-faq-tech-stack)
   * [Concepts Used](#smartwatch-faq-concepts-used)
   * [Output](#smartwatch-faq-output)
   * [Authors](#smartwatch-faq-authors)
   * [Repository](#smartwatch-faq-repository) 
 * [Retirement Countdown](#retirement-countdown)
   * [Purpose](#retirement-countdown-purpose)
+  * [Tech Stack](#retirement-countdown-tech-stack)
   * [Concepts Used](#retirement-countdown-concepts-used)
   * [Output](#retirement-countdown-output)
   * [Authors](#retirement-countdown-authors)
   * [Repository](#retirement-countdown-repository) 
 * [Movie Tracker](#movie-tracker)
   * [Purpose](#movie-tracker-purpose)
+  * [Tech Stack](#movie-tracker-tech-stack)
   * [Concepts Used](#movie-tracker-concepts-used)
   * [Output](#movie-tracker-output)
   * [Authors](#movie-tracker-authors)
@@ -43,6 +49,8 @@
 ---
 ### Simple Checkout Purpose
 Displays a webpage that allows the user to input values that will then be turned into a grocery receipt summarizing the inputs and calculating the change they get back. Displays the output of the receipt in a Javascript alert message
+
+### Simple Checkout Tech Stack
 
 ### Simple Checkout Concepts Used
 * Alert messages
@@ -69,6 +77,8 @@ Displays a webpage that allows the user to input values that will then be turned
 ---
 ### Flashcards Purpose
 This program allows the creation of flashcards for studying and quizzing using a graphical interface
+
+### Flashcards Tech Stack
 
 ### Flashcards Concepts Used
 * Array Manipulation
@@ -104,6 +114,8 @@ This program allows the creation of flashcards for studying and quizzing using a
 ### Hot Cold Game Purpose
 This program creates a guessing number game for the user. The user will try to guess a number with the program giving them hints based on their proximity like the game Hot-Cold. It also tracks the best score for each attempt
 
+### Hot Cold Game Tech Stack
+
 ### Hot Cold Game Concepts Used
 * Randomization
 * Event Listeners (Click, Key, ContentLoaded)
@@ -128,6 +140,8 @@ This program creates a guessing number game for the user. The user will try to g
 ---
 ### Smartwatch FAQ Purpose
 This program displays an FAQ page for a smartwatch that uses collapsible panels for questions. When the question is clicked an answer appears and a corresponding image is displayed at the top
+
+### Smartwatch FAQ Tech Stack
 
 ### Smartwatch FAQ Concepts Used
 * Adding/Removing classes from DOM elements
@@ -157,6 +171,8 @@ This program displays an FAQ page for a smartwatch that uses collapsible panels 
 ### Retirement Countdown Purpose
 The purpose of this program is to take in information about the user's financials (savings balance, monthly savings additions, interest rate) and information about the person (name, email) and the date they want to retire. It then uses this data to determine what the projected income of the user will be based on their financials on their projected retirement date.
 
+### Retirement Countdown Tech Stack
+
 ### Retirement Countdown Concepts Used
 * Date Manipulation
 * Intervals
@@ -183,6 +199,8 @@ The purpose of this program is to take in information about the user's financial
 
 ### Movie Tracker Purpose
 This program uses classes and modules to create an OOP based movie tracker program wherein you can enter a movie, its genre, and a rating for it and it will be save to the browser's local storage and displayed in a side panel. You can also remove or clear movies removing them from both local storage and the side panel.
+
+### Movie Tracker Tech Stack
 
 ### Movie Tracker Concepts Used
 * Classes
