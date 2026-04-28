@@ -51,6 +51,9 @@
 Displays a webpage that allows the user to input values that will then be turned into a grocery receipt summarizing the inputs and calculating the change they get back. Displays the output of the receipt in a Javascript alert message
 
 ### Simple Checkout Tech Stack
+![HTML5 Badge](https://img.shields.io/badge/HTML-V5-orange?)
+![CSS Badge](https://img.shields.io/badge/CSS-blue?logo=css)
+![JS Badge](https://img.shields.io/badge/JS-coral?logo=javascript)
 
 ### Simple Checkout Concepts Used
 * Alert messages
@@ -79,6 +82,9 @@ Displays a webpage that allows the user to input values that will then be turned
 This program allows the creation of flashcards for studying and quizzing using a graphical interface
 
 ### Flashcards Tech Stack
+![HTML5 Badge](https://img.shields.io/badge/HTML-V5-orange?)
+![CSS Badge](https://img.shields.io/badge/CSS-blue?logo=css)
+![JS Badge](https://img.shields.io/badge/JS-coral?logo=javascript)
 
 ### Flashcards Concepts Used
 * Array Manipulation
@@ -115,6 +121,9 @@ This program allows the creation of flashcards for studying and quizzing using a
 This program creates a guessing number game for the user. The user will try to guess a number with the program giving them hints based on their proximity like the game Hot-Cold. It also tracks the best score for each attempt
 
 ### Hot Cold Game Tech Stack
+![HTML5 Badge](https://img.shields.io/badge/HTML-V5-orange?)
+![CSS Badge](https://img.shields.io/badge/CSS-blue?logo=css)
+![JS Badge](https://img.shields.io/badge/JS-coral?logo=javascript)
 
 ### Hot Cold Game Concepts Used
 * Randomization
@@ -142,6 +151,9 @@ This program creates a guessing number game for the user. The user will try to g
 This program displays an FAQ page for a smartwatch that uses collapsible panels for questions. When the question is clicked an answer appears and a corresponding image is displayed at the top
 
 ### Smartwatch FAQ Tech Stack
+![HTML5 Badge](https://img.shields.io/badge/HTML-V5-orange?)
+![CSS Badge](https://img.shields.io/badge/CSS-blue?logo=css)
+![JS Badge](https://img.shields.io/badge/JS-coral?logo=javascript)
 
 ### Smartwatch FAQ Concepts Used
 * Adding/Removing classes from DOM elements
@@ -172,6 +184,9 @@ This program displays an FAQ page for a smartwatch that uses collapsible panels 
 The purpose of this program is to take in information about the user's financials (savings balance, monthly savings additions, interest rate) and information about the person (name, email) and the date they want to retire. It then uses this data to determine what the projected income of the user will be based on their financials on their projected retirement date.
 
 ### Retirement Countdown Tech Stack
+![HTML5 Badge](https://img.shields.io/badge/HTML-V5-orange?)
+![CSS Badge](https://img.shields.io/badge/CSS-blue?logo=css)
+![JS Badge](https://img.shields.io/badge/JS-coral?logo=javascript)
 
 ### Retirement Countdown Concepts Used
 * Date Manipulation
@@ -201,6 +216,9 @@ The purpose of this program is to take in information about the user's financial
 This program uses classes and modules to create an OOP based movie tracker program wherein you can enter a movie, its genre, and a rating for it and it will be save to the browser's local storage and displayed in a side panel. You can also remove or clear movies removing them from both local storage and the side panel.
 
 ### Movie Tracker Tech Stack
+![HTML5 Badge](https://img.shields.io/badge/HTML-V5-orange?)
+![CSS Badge](https://img.shields.io/badge/CSS-blue?logo=css)
+![JS Badge](https://img.shields.io/badge/JS-coral?logo=javascript)
 
 ### Movie Tracker Concepts Used
 * Classes
