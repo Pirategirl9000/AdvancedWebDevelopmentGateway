@@ -1,56 +1,15 @@
 # Advanced Web Development Gateway
 
 ## Table of Contents
-* [Simple Checkout](#simple-checkout)
-  * [Purpose](#simple-checkout-purpose)
-  * [Tech Stack](#simple-checkout-tech-stack)
-  * [Concepts Used](#simple-checkout-concepts-used)
-  * [Output](#simple-checkout-output)
-  * [Authors](#simple-checkout-authors)
-  * [Repository](#simple-checkout-repository)
-* [Flashcards](#flashcards)
-  * [Purpose](#flashcards-purpose)
-  * [Tech Stack](#flashcards-tech-stack)
-  * [Concepts Used](#flashcards-concepts-used)
-  * [Output](#flashcards-output)
-  * [Authors](#flashcards-authors)
-  * [Repository](#flashcards-repository) 
-* [Hot Cold Game](#hot-cold-game)
-  * [Purpose](#hot-cold-game-purpose)
-  * [Tech Stack](#hot-cold-game-tech-stack)
-  * [Concepts Used](#hot-cold-game-concepts-used)
-  * [Output](#hot-cold-game-output)
-  * [Authors](#hot-cold-game-authors)
-  * [Repository](#hot-cold-game-repository)  
-* [Smartwatch FAQ](#smartwatch-faq)
-  * [Purpose](#smartwatch-faq-purpose)
-  * [Tech Stack](#smartwatch-faq-tech-stack)
-  * [Concepts Used](#smartwatch-faq-concepts-used)
-  * [Output](#smartwatch-faq-output)
-  * [Authors](#smartwatch-faq-authors)
-  * [Repository](#smartwatch-faq-repository) 
-* [Retirement Countdown](#retirement-countdown)
-  * [Purpose](#retirement-countdown-purpose)
-  * [Tech Stack](#retirement-countdown-tech-stack)
-  * [Concepts Used](#retirement-countdown-concepts-used)
-  * [Output](#retirement-countdown-output)
-  * [Authors](#retirement-countdown-authors)
-  * [Repository](#retirement-countdown-repository) 
-* [Movie Tracker](#movie-tracker)
-  * [Purpose](#movie-tracker-purpose)
-  * [Tech Stack](#movie-tracker-tech-stack)
-  * [Concepts Used](#movie-tracker-concepts-used)
-  * [Output](#movie-tracker-output)
-  * [Authors](#movie-tracker-authors)
-  * [Repository](#movie-tracker-repository)
-* [Node Project](#node-project)
-  * [Purpose](#node-project-purpose)
-  * [Tech Stack](#node-project-tech-stack)
-  * [Concepts Used](#node-project-concepts-used)
-  * [Output](#node-project-output)
-  * [Authors](#node-project-authors)
-  * [Repository](#node-project-repository)
- 
+| Project | Purpose | Tech Stack | Concepts Used | Output | Authors | Repository |
+|---------|--------|------------|---------------|--------|---------|------------|
+| [Simple Checkout](#simple-checkout) | [Purpose](#simple-checkout-purpose) | [Tech Stack](#simple-checkout-tech-stack) | [Concepts Used](#simple-checkout-concepts-used) | [Output](#simple-checkout-output) | [Authors](#simple-checkout-authors) | [Repository](#simple-checkout-repository) |
+| [Flashcards](#flashcards) | [Purpose](#flashcards-purpose) | [Tech Stack](#flashcards-tech-stack) | [Concepts Used](#flashcards-concepts-used) | [Output](#flashcards-output) | [Authors](#flashcards-authors) | [Repository](#flashcards-repository) |
+| [Hot Cold Game](#hot-cold-game) | [Purpose](#hot-cold-game-purpose) | [Tech Stack](#hot-cold-game-tech-stack) | [Concepts Used](#hot-cold-game-concepts-used) | [Output](#hot-cold-game-output) | [Authors](#hot-cold-game-authors) | [Repository](#hot-cold-game-repository) |
+| [Smartwatch FAQ](#smartwatch-faq) | [Purpose](#smartwatch-faq-purpose) | [Tech Stack](#smartwatch-faq-tech-stack) | [Concepts Used](#smartwatch-faq-concepts-used) | [Output](#smartwatch-faq-output) | [Authors](#smartwatch-faq-authors) | [Repository](#smartwatch-faq-repository) |
+| [Retirement Countdown](#retirement-countdown) | [Purpose](#retirement-countdown-purpose) | [Tech Stack](#retirement-countdown-tech-stack) | [Concepts Used](#retirement-countdown-concepts-used) | [Output](#retirement-countdown-output) | [Authors](#retirement-countdown-authors) | [Repository](#retirement-countdown-repository) |
+| [Movie Tracker](#movie-tracker) | [Purpose](#movie-tracker-purpose) | [Tech Stack](#movie-tracker-tech-stack) | [Concepts Used](#movie-tracker-concepts-used) | [Output](#movie-tracker-output) | [Authors](#movie-tracker-authors) | [Repository](#movie-tracker-repository) |
+| [Node Project](#node-project) | [Purpose](#node-project-purpose) | [Tech Stack](#node-project-tech-stack) | [Concepts Used](#node-project-concepts-used) | [Output](#node-project-output) | [Authors](#node-project-authors) | [Repository](#node-project-repository) |
 
 ## Simple Checkout
 ---
