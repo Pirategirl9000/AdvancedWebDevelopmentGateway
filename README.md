@@ -209,6 +209,7 @@ This program uses classes and modules to create an OOP based movie tracker progr
 ## Node Project
 ---
 ### Node Project Purpose
+This program makes a call to the [REST countries API](https://restcountries.com/) to retrieve a country based on the user's request. It implements an LFU/TTL based cache to store requests for subsequent requests as per the principles of RESTful web services.
 
 ### Node Project Tech Stack
 ![HTML5 Badge](https://img.shields.io/badge/HTML-V5-orange?)
@@ -218,16 +219,28 @@ This program uses classes and modules to create an OOP based movie tracker progr
 ![Express Badge](https://img.shields.io/badge/Express-grey?logo=express)
 
 ### Node Project Concepts Used
-
+* Node JS
+* Express
+  * Middleware
+  * Serving Static Content
+* HTTP
+* Caching
+  * Least Frequently Used Invalidation
+  * Time-to-Live Invalidation
+* Fetch API
+* Proxy Servers
+* Promises
+* Async/Await
 
 ### Node Project Output
+![Photo of Output](Node-Project/assets/output.png)
 
 
 ### Node Project Authors
 * [Violet French](https://github.com/Piratgirl9000)
 
 ### Node Project Repository
-* [Local Codebase]()
+* [Local Codebase](https://github.com/Pirategirl9000/AdvancedWebDevelopmentGateway/tree/main/Node-Project)
 * [Native Repository](https://github.com/Pirategirl9000/Node-Project-Adv-Web)
 
 [Back to Top](#advanced-web-development-gateway)
