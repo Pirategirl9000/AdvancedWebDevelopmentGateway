@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Country Lookup</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Country Lookup</h1>
+
+<div class="search">
+    <input type="text" id="countryInputName" placeholder="Enter your country">
+    <button onclick="loadCountry()">Search</button>
+</div>
+
+<p id="status"></p>
+
+<div id="countryCard" class="card hidden">
+    <img id="countryFlag" src="" alt="Country flag" />
+    <h2 id="countryName"></h2>
+    <table>
+        <tbody>
+        <tr>
+            <th>Capital</th>
+            <td id="countryCapital"></td>
+        </tr>
+        <tr>
+            <th>Region</th>
+            <td id="countryRegion"></td>
+        </tr>
+        <tr>
+            <th>Languages</th>
+            <td id="countryLanguages"></td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
